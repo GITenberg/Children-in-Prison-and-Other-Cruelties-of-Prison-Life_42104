@@ -1,0 +1,38 @@
+_repo: Children-in-Prison-and-Other-Cruelties-of-Prison-Life_42104
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 42104-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Wilde, Oscar
+    alias: Wilde, Oscar Fingal O'Flahertie Wills
+    birthdate: 1854
+    deathdate: 1900
+    gutenberg_agent_id: '111'
+    url: http://www.gutenberg.org/2009/agents/111
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Oscar_Wilde
+    - http://fr.wikipedia.org/wiki/Oscar_Wilde
+description: While Oscar Wilde is now strongly associated with the tone of whimsy
+  that imbues his breezy, effortlessly witty epigrams and essays, the Irish writer
+  and playwright was also a serious thinker who, having been sentenced to two years
+  of hard labor as a punishment for his homosexuality, was deeply engaged with the
+  social issues of his day. This essay, penned as a letter to a newspaper soon after
+  Wilde's release from prison, takes up the moral issue of penal sentences for juveniles
+  ...
+gutenberg_issued: '2013-02-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '42104'
+  lccn: '48033420'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Juvenile delinquency'
+- !lcsh 'Prisons'
+- !lcc 'HV'
+title: Children in Prison and Other Cruelties of Prison Life
+url: http://www.gutenberg.org/ebooks/42104
